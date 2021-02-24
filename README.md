@@ -12,4 +12,6 @@ This repository contains all projects done in the course [SI1336 - Simulation an
 ## Final project
 
 The final project simulates a two-stage rocket launch, where the purpose is to approximate the 
-needed mass to reach the Kármán line.
+needed mass to reach the Kármán line. Final grade: A.
+
+
